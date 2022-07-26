@@ -1,0 +1,3 @@
+Python was designed for readability, the has some similarities to the English language with influence
+from mathematics.Python uses new lines to complete a command, as opposed to other programming
+languages Which often use Semicolons or parentheses.
